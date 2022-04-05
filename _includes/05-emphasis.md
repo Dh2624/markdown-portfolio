@@ -1,4 +1,4 @@
 *heading*
 **bold text**
 
--combine **both** to work_
+_combine **both** to work_
